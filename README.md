@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RohanKulkarni27-rk
-- 👀 I’m interested in frontend Development 
-- 🌱 I’m currently learning frontend Development and backend development 
+- 👀 I’m interested in software development 
+- 🌱 I’m currently learning software development 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rohankulkarni692@gmail.com
 - 😄 Pronouns: ...
